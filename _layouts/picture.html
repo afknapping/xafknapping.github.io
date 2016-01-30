@@ -1,0 +1,18 @@
+---
+layout: default
+img_base_path: /images/
+---
+
+<div class="picture">
+  <img class="picture__image" src="{{ site.baseurl }}{{ page.img_base_path }}{{ page.img_file }}">
+  <h1 class="picture__title">{{ page.title }}</h1>
+  <p class="picture__subtitle">{{ content }}</p>
+  {% if page.source %}
+    <p class="picture__source_url">
+      Source: {{ page.source_url }}
+      {% if page.author %}
+        by {{ page.author }}
+      {% endif %}
+    </p>
+  {% endif %}
+
