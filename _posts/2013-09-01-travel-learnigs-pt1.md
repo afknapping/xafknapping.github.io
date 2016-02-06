@@ -4,7 +4,7 @@ title: "travel learnings part one"
 tags:
 ---
 
-I have never been much of a traveller but I like smooth rides. Stuff only runs smooth though if you are prepared and plan a little ahead. It will be unlikely to find out everything, but there will be enough surprises anyways. 
+I have neverr been much of a traveller but I like smooth rides. Stuff only runs smooth though if you are prepared and plan a little ahead. It will be unlikely to find out everything, but there will be enough surprises anyways. 
 
 So here are some random notes from the past couple trips. Some of these may make you go "duh", just skip those :)
 
