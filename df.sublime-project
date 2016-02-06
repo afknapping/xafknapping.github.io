@@ -1,0 +1,19 @@
+{
+
+    "folders":
+    [
+        {
+            "follow_symlinks": true,
+            "path": "/Users/filtercake/src/filtercake.com/"
+        }
+    ],
+
+    "settings":
+    {
+        "Jekyll":
+        {
+            "posts_path": "/Users/filtercake/src/filtercake.com/_posts",
+            "drafts_path": "/Users/filtercake/src/filtercake.com/_drafts",
+        }
+    }
+}

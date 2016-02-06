@@ -6,3 +6,5 @@ gem 'foreman'
 gem 'sass'
 gem 'redcarpet'
 gem 'octopress'
+
+gem 'jekyll-compose', group: [:jekyll_plugins]

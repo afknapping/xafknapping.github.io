@@ -1,6 +1,6 @@
 name: mono space
 markdown: redcarpet
 highlighter: true
-permalink: :title
+permalink: :title/
 baseurl:
 url: http://filtercake.com
