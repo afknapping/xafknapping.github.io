@@ -4,3 +4,15 @@ highlighter: true
 permalink: :title/
 baseurl:
 url: http://filtercake.com
+
+
+exclude:
+  - Procfile
+  - render-linklist
+  - render-tooling
+  - Gemfile
+  - Gemfile.lock
+  - NOTES.md
+  - Procfile
+  - README.md
+  - deploy.sh
