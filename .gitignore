@@ -7,3 +7,4 @@ _postss
 .sass-cache/
 npm-debug.log
 _dinge/
+.jekyll-metadata
