@@ -5,10 +5,9 @@ tags: article, dear kids
 
 ---
 
-
 Recently in my timeline, something came along that read something like this:
 
-> Tolkien took 12 years from releasing the hobbit to releasing lord of the rings. Good things take time.
+> It took Tolkien 12 years from releasing the hobbit to releasing lord of the rings. Good things take time.
 
 That made me really think.
 
