@@ -9,7 +9,7 @@ Recently in my timeline, something came along that read something like this:
 
 > It took Tolkien 12 years from releasing the hobbit to releasing lord of the rings. Good things take time.
 
-That made me really think.
+That made me think.
 
 LEAN here, MVP there, miximizing output and throughput, always tweaking the generic flow where you drop a problem in at one end and a high-value, high-quality, low-maintenance, low-cost solution comes out at the predicted time on the other end.
 
