@@ -1,3 +1,9 @@
+---
+published: false
+layout: post
+title: "WAT"
+---
+
 How I generated $1200 for the Free Software Foundation Europe (and not for the EFF)
 
 Maybe you remember the enormous goto fail bug in February? It was a two-handed sword: while on the other hand unbelievable funny, it was also unbelievably dangerous. We couldn't know back then that Heartbleed was just around the corner. Apple did their part by letting us wait for a whole week until they rolled the OS X fix (piggy-backing another patch release).

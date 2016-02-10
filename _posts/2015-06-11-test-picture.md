@@ -6,6 +6,7 @@ title: Sketchnotes for @mikeal's talk "Future of Node"
 license: CC-BY
 source_url:
 author:
+published: false
 ---
 
 as seen on [http://youtu.be/Zpxlr1MuPYA](http://youtu.be/Zpxlr1MuPYA)
