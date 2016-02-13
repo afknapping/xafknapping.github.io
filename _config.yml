@@ -6,7 +6,7 @@ baseurl:
 url: http://filtercake.com
 
 
-unpublished: true
+unpublished: false
 
 exclude:
   - Procfile
