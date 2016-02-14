@@ -8,14 +8,6 @@ title: filtercake.com
     <img src="{{site.baseurl}}/images/earlier/passion.jpg" alt="">
   </p>
 
-  <hr>
-    {% for post in site.posts %}
-      {% if post.draft == true %} <b>U</b> {% endif %}
-
-
-    {% endfor %}
-  <hr>
-
   <h1>Blog Posts</h1>
   <ul class="posts">
     {% for post in site.posts %}
