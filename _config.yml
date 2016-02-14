@@ -5,9 +5,6 @@ permalink: :title/
 baseurl:
 url: http://filtercake.com
 
-
-unpublished: false
-
 exclude:
   - Procfile
   - render-linklist
