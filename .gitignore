@@ -3,7 +3,6 @@ _site
 _drafts
 .DS_Store
 assets/.sass-cache/
-_postss
 .sass-cache/
 npm-debug.log
 _dinge/
