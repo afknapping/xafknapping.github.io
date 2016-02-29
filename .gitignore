@@ -7,3 +7,4 @@ assets/.sass-cache/
 npm-debug.log
 _dinge/
 .jekyll-metadata
+*.map

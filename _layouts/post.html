@@ -3,11 +3,11 @@ layout: default
 ---
 
 <div class="post">
-  <h1 class="post--title">{{ page.title }}</h2>
+  <p class="post-meta">{{ page.date | date_to_string }}</p>
+  <h1 class="post--title">{{ page.title }}</h1>
   {% if page.poster %}
     <img src="{{ site.baseurl }}/posters/{{ page.poster }}" alt="{{ page.postercredit }}" class="post--poster--image">
   {% endif %}
-  <p class="meta">{{ page.date | date_to_string }}</p>
 
   <div class="post-body">
     {{ content }}

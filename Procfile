@@ -1,4 +1,3 @@
 jekyll: bundle exec jekyll serve --watch --baseurl '' --drafts --incremental
 
-# compass: compass watch
-sass: bundle exec sass --line-numbers --watch assets/sass/:assets/stylesheets/
+sass: bundle exec sass --style compressed --watch _includes/inline-styles.scss:_includes/inline-styles.css
