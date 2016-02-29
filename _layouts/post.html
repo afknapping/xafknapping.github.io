@@ -9,7 +9,9 @@ layout: default
   {% endif %}
   <p class="meta">{{ page.date | date_to_string }}</p>
 
-  {{ content }}
+  <div class="post-body">
+    {{ content }}
+  </div>
 
   {% if page.link %}
   <a href="{{ page.link }}">{{ page.link }}</a>

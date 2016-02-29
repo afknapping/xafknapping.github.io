@@ -3,6 +3,8 @@ layout: post
 title: relative quantification of health and the myth of the streak                                 
 ---
 
+Cupcake ipsum dolor. Sit amet I love bonbon* bear claw tootsie roll jelly.* I love chocolate ice cream* chupa chups I love. Gummi bears I love wafer marzipan jujubes sweet tootsie roll bear claw. Dessert gingerbread dragée sweet roll liquorice fruitcake marzipan donut. I love I love sugar plum marshmallow jujubes. Cotton candy jujubes oat cake chocolate cake chocolate cake marshmallow bear claw chocolate cake. Jelly cupcake gingerbread I love cupcake sesame snaps apple pie oat cake.
+
 My [post on refusing streaks](/streaks-no-thank-you-happy-to-suck/) spawned a little [discussion on twitter](https://twitter.com/filtercake/status/698434199305515008), which made me read [Rocko's post on what his year of open source contribution has meant for his life](http://kowalski.gd/blog/what-happened-while-contributing-to-open-source-on-a-daily-basis-for-one-year). While his post took the streak of contributing 365 days in a row as the hook, my conclusion was that the streak itself had very little to do with the outcome (paraphrased):
 
 > A streak like that is an effect, not the cause. The whole thing hit home by combining something that is *fun* with something that is also *successful*. Somebody might personally identify a streak as causation – from the outside I cannot distinguish it from correlation.
