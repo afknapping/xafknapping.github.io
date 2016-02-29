@@ -36,7 +36,7 @@ Another puzzle piece:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Perhaps the most important startup equation? (Constant improvement trumps all)<br><br>As spotted at <a href="https://twitter.com/homebrew">@homebrew</a> HQ. <a href="https://t.co/PQcHdwossx">pic.twitter.com/PQcHdwossx</a></p>&mdash; Jed Christiansen (@jedc) <a href="https://twitter.com/jedc/status/667567495465689088">November 20, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-These numbers have not left me since I saw them last year. If you accept your current state in life as a steady multiplication of what happened so far, these number make total sense on a personal level. (A good example is [`luck = preperation * opportunity`](https://encrypted.google.com/search?q=luck+%3D+preparation+*+opportunity&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjMh4Sto5vLAhVoAZoKHbmbA6QQ_AUIBygB&biw=748&bih=801#hl=en&tbm=isch&q=luck+preparation+opportunity)).
+These numbers have not left me since I saw them last year. If you accept your current state in life as the result of a steady multiplication of what happened so far, these number make total sense on a personal level. (A good example is [`luck = preperation * opportunity`](https://encrypted.google.com/search?q=luck+%3D+preparation+*+opportunity&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjMh4Sto5vLAhVoAZoKHbmbA6QQ_AUIBygB&biw=748&bih=801#hl=en&tbm=isch&q=luck+preparation+opportunity)).
 
 Then again, 1% is a actually *a lot*. What happens if we take just 1/10 of it?
 
