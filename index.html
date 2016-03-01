@@ -3,7 +3,7 @@ layout: default
 title: filtercake.com
 ---
 
-<div id="home">
+<div class="index">
   <p>
     {% include index-header-image.html %}
   </p>
@@ -18,9 +18,9 @@ title: filtercake.com
           {% else %}
             {{ post.date | date_to_string }}
           {% endif %}
+          <span class="post-list__raquo">&raquo;</span>
         </span>
-        <span class="post-list__raquo">&raquo;</span>
-          <a href="{{ post.url }}">{{ post.title }}</a>{% if post.draft == true %} <b>U</b> {% endif %}
+          <a class="post-list__link" href="{{ post.url }}">{{ post.title }}</a>{% if post.draft == true %} <b>U</b> {% endif %}
       </li>
     {% endfor %}
   </ul>
