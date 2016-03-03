@@ -50,6 +50,16 @@ title: filtercake.com
 - talk I gave in different forms at various user groups and conferences
 - slides at [filtercake's Decks // slidr.io](https://slidr.io/filtercake)
 
+
+### goto fail shirt
+
+![]({{site.baseurl}}/images/stuff-i-made/gotofailshirt.jpg )
+
+- inspired by [the goto fail SSL Bug](http://www.wired.com/2014/02/gotofail/)
+- all proceeds donated to the [Free Software Foundation Europe](https://fsfe.org/)
+
+
+
 ### Maker's Deck
 
 ![]({{site.baseurl}}/images/stuff-i-made/makersdeck.jpg)
