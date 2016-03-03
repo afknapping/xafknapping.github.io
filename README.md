@@ -6,9 +6,3 @@
 Foreman uses the `Procfile` to do `jekyll serve -w --baseurl ''` and `sass watch`.
 
 
-## image link template
-
-    ![]({{site.baseurl}}/images/2014/XXXXXXXXX)
-
-## Thanks
-Robin for the Bohrmaschine!
