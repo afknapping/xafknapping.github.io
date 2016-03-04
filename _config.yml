@@ -1,4 +1,4 @@
-name: mono space
+name: filtercake
 markdown: redcarpet
 highlighter: true
 permalink: :title/

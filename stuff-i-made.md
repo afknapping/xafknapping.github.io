@@ -92,4 +92,3 @@ title: filtercake.com
 - [C3S](https://www.c3s.cc/) inital landing page (2011)
 - [agile design camp](http://agiledesigncamp.org/)
 
-

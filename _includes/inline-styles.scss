@@ -91,6 +91,7 @@ a:visited {
 
 .page-content {
   max-width: 35em;
+  min-height: 17em;
   margin: 0 auto;
   img {
     max-width: 100%;
@@ -98,4 +99,9 @@ a:visited {
   h2, h3 {
     margin-top: 3em;
   }
+}
+
+.footer  {
+  margin: 0 auto;
+  max-width: 35em;
 }
