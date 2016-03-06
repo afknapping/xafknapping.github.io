@@ -1,0 +1,9 @@
+language: node_js
+node_js:
+  - "5.7.1"
+  # ruby: [How to run Node.js and Ruby tests within one project on Travis CI - Stack Overflow](http://stackoverflow.com/questions/31235146/how-to-run-node-js-and-ruby-tests-within-one-project-on-travis-ci/31373752#31373752)
+before_install:
+  - rvm install 2.2.2
+script:
+  - ./build.sh
+  - ./deploy-travis.sh
