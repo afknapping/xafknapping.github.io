@@ -13,4 +13,4 @@ title: filtercake.com
 - [UX Camp Hamburg](http://www.uxcamphh.org/) – August 2016
 - [Write the Docs Europe](http://www.writethedocs.org/conf/eu/2016/) – 2016 September 18 - 20 2016, Prague
 - [XP Days Germany](http://www.xpdays.de/) – November 20 - 22 2016, Hamburg
-- [dotJS](http://www.dotjs.io/) & [dotCSS](http://www.dotcss.io/) – Dec 2 & 5, Paris
+- [dotJS](http://www.dotjs.io/) & [dotCSS](http://www.dotcss.io/) – Dec 2 & 5 2016, Paris
