@@ -17,6 +17,8 @@ exclude:
   - NOTES.md
   - Procfile
   - README.md
+  - .travis.yml
+  - deploy-travis.sh
   - deploy.sh
 
 # doesn't solve it: _includes is only processed when copied into _site ¯\_(ツ)_/¯
