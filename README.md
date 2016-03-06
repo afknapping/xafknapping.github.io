@@ -1,8 +1,6 @@
-## how to run at home
+- [filtercake/filtercake.github.io - Travis CI](https://travis-ci.org/filtercake/filtercake.github.io)
+- [filtercake.com](http://www.filtercake.com/)
 
-    $ bundle
-    $ open http://localhost:4000 && foreman start
-
-Foreman uses the `Procfile` to do `jekyll serve -w --baseurl ''` and `sass watch`.
-
-
+```
+foreman start
+```
