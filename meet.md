@@ -5,6 +5,7 @@ title: filtercake.com
 
 # I plan to attend the following events – if you're there, let's chat!
 
+- [Node.js User Group Hamburg, March 16, 2016](http://www.meetup.com/node-HH/events/228518814/) – will do a lightning talk: "UI prototyping with npm scripts"
 - [Workshop: Sketching Interfaces](http://push-conference.com/training/fixed-date/20163F-ux-workshop-sketching-interfaces.php) – March 18 2016, München
 - [JSUnconf](http://2016.jsunconf.eu/) – April 23 & 24 2016, Hamburg
 - [beyond tellerrand](https://beyondtellerrand.com/events/duesseldorf-2016) – May 09 - 11 2016, Düsseldorf
