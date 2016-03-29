@@ -1,6 +1,8 @@
 
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  line-height: 1.4;
+
   }
 
 blockquote {
@@ -8,6 +10,11 @@ blockquote {
   margin: 0;
   border-left: 0.5em solid #ccc;
   padding: 0.1em 0 0.1em 2em;
+
+}
+
+li {
+  margin-top: 1em;
 
 }
 
