@@ -7,9 +7,16 @@ title: filtercake.com
 
 ## Current
 
-###  UI Sketchbook
+### [DesignOps.org](http://www.designops.org/)
 
-![]({{site.baseurl}}/images/stuff-i-made/ui-sketchbook.png)
+[![DesignOps.org screenshot](https://cloud.githubusercontent.com/assets/170145/14111118/c2e5bf3c-f5c9-11e5-9a4e-735b7cd9335e.png)](http://www.designops.org/)
+
+
+- entry point for orientiation and contribution
+
+###  [UI Sketchbook](https://www.npmjs.com/package/ui-sketchbook)
+
+[![]({{site.baseurl}}/images/stuff-i-made/ui-sketchbook.png)](https://www.npmjs.com/package/ui-sketchbook)
 
 - a collection of terrible npm bash scripts and boilerplate code
 - allows me to prototype isolated UI concepts and deploy them to get feedback within minutes
@@ -58,6 +65,11 @@ title: filtercake.com
 - inspired by [the goto fail SSL Bug](http://www.wired.com/2014/02/gotofail/)
 - all proceeds donated to the [Free Software Foundation Europe](https://fsfe.org/)
 
+### GitHub from Scratch
+
+![GitHub from Scratch screenshot](https://cloud.githubusercontent.com/assets/170145/14111275/68c26b26-f5ca-11e5-9e7e-48e0dccdc47a.png)
+
+- self-learning course for the [OpenTechSchool](http://www.opentechschool.org/)
 
 
 ### Maker's Deck
