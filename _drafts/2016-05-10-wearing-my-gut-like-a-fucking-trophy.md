@@ -8,7 +8,9 @@ I'm out of shape. Not only do I huff and puff after running 2 minutes to catch t
 
 Most of the times I don't let it hang out though. I suck it in. Because god forbid somebody thinks I'm fat.
 
-The thing is, **sucking in your gut fucks up your breathing**. Look into any book on exercising and you will find how deep belly breath is the basis for everything else: [team sports](http://healthyliving.azcentral.com/breathe-playing-basketball-10985.html), meditation, [weights](http://www.builtlean.com/2013/02/14/breathe-weightlifting/), yoga, [swimming](http://swimming.about.com/od/swimworkoutsandskills/a/dbt_breathing.htm),...
+The thing is, **sucking in your gut fucks up your breathing**. Look into any book on exercising and you will find how deep belly breath is the basis for 
+M
+B everything else: [team sports](http://healthyliving.azcentral.com/breathe-playing-basketball-10985.html), meditation, [weights](http://www.builtlean.com/2013/02/14/breathe-weightlifting/), yoga, [swimming](http://swimming.about.com/od/swimworkoutsandskills/a/dbt_breathing.htm),...
 
 Most of us in the first world breathe wrong. We breath with the top of our lungs. From kindergarten on we're told to suck in the gut and post out the chest to look more athletic and less like the slobs we all actually are.
 
