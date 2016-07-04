@@ -5,7 +5,22 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "postinstall": "ruby -v && gem install bundler && bundle install"
+    "postinstall": "ruby -v && gem install bundler && bundle install",
+
+    "browsersync": "./node_modules/.bin/browser-sync start --config _browser-sync-rc.js",
+
+    "postcss": "./node_modules/.bin/postcss --config _postcssrc.json",
+    "postcss_watch": "./node_modules/.bin/nodemon --ignore _site/ --watch ./ -e 'scss' -x 'npm run postcss'",
+
+
+    "css-to-site": "cp filtercake3.css _site/filtercake3.css",
+    "css-to-site_watch": "./node_modules/.bin/nodemon --ignore _site/ --watch ./ -e 'css' -x 'npm run css-to-site'",
+
+
+    "jekyll": "bundle exec jekyll build --config _jekyllrc.yml --incremental",
+    "jekyll_watch": "./node_modules/.bin/nodemon --ignore _site/ --watch ./ -e 'html,md' -x 'npm run jekyll'",
+
+    "start": "npm run postcss_watch & npm run jekyll_watch & npm run css-to-site_watch & npm run browsersync"
   },
   "repository": {
     "type": "git",

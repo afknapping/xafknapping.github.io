@@ -21,7 +21,5 @@ exclude:
   - deploy-travis.sh
   - deploy.sh
   - node_modules
-
-# doesn't solve it: _includes is only processed when copied into _site ¯\_(ツ)_/¯
-# include:
-#   - _includes
+  - package.json
+  - npm-debug.log

@@ -6,7 +6,6 @@
     "input": "_filtercake3.scss",
     "output": "./filtercake3.css",
     "local-plugins": true,
-    "watch": true,
     "map": false,
 
     "autoprefixer": {
