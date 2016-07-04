@@ -1,0 +1,30 @@
+{
+    "use": ["autoprefixer", "postcss-import"],
+
+    "comment": "postcss-reporter mdcss",
+
+    "input": "_filtercake3.scss",
+    "output": "./filtercake3.css",
+    "local-plugins": true,
+    "watch": true,
+    "map": false,
+
+    "autoprefixer": {
+        "browsers": "> 0.1%",
+        "cascade": false
+    },
+    "postcss-import": {
+      "from": "."
+    },
+    "mdcss": {
+      "destination": "_site/styleguide",
+      "assets": ["_site/assets/css/main.css"],
+      "title": "Jeneva",
+      "css": ["style.css", "main.css"],
+      "examples" : {
+        "css": ["main.css", "https://cssgram-cssgram.netdna-ssl.com/cssgram.min.css"],
+        "bodycss": "background:none;border:0;clip:auto;display:block;height:auto;margin:0;padding:16px;position:static;width:auto;text-align:center;"
+      }
+
+    }
+}
