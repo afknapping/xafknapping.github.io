@@ -8,3 +8,4 @@ npm-debug.log
 _dinge/
 .jekyll-metadata
 *.map
+node_modules/
