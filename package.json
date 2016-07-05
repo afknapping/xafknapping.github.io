@@ -11,7 +11,7 @@
     "postcss_watch": "./node_modules/.bin/nodemon --ignore _site/ --watch ./ -e 'scss' -x 'npm run postcss'",
     "css-to-site": "cp filtercake3.css _site/filtercake3.css",
     "css-to-site_watch": "./node_modules/.bin/nodemon --ignore _site/ --watch ./ -e 'css' -x 'npm run css-to-site'",
-    "jekyll": "bundle exec jekyll build --config _jekyllrc.yml --incremental",
+    "jekyll": "bundle exec jekyll build --config _jekyllrc.yml",
     "jekyll_watch": "./node_modules/.bin/nodemon --ignore _site/ --watch ./ -e 'html,md' -x 'npm run jekyll'",
     "start": "rm -rf _site && mkdir _site npm run postcss_watch & npm run css-to-site_watch & npm run jekyll_watch & npm run browsersync"
   },
