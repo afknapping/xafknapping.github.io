@@ -13,9 +13,7 @@ title: "Test: quick thoughts"
 <div>
 {{ post.content }}
 </div>
-
-<span>{{ post.date | date_to_string }}</span>
-
+<a href="{{ post.url }}" >{{ post.date | date_to_string }}</a>
 
 {% endif %}
 {% endfor %}
