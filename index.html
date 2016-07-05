@@ -12,17 +12,19 @@ title: filtercake.com
   <h1>Articles</h1>
   <ul class="post-list">
     {% for post in site.posts %}
-      <li class="post-list__entry">
-        <span class="post-list__date">
-          {% if post.link %}
-            ###### LINK
-          {% else %}
-            {{ post.date | date_to_string }}
-          {% endif %}
-          <span class="post-list__raquo">&raquo;</span>
-        </span>
-          <a class="post-list__link" href="{{ post.url }}">{{ post.title }}</a>{% if post.draft == true %} <b>U</b> {% endif %}
-      </li>
+      {% if post.qt == !true %}
+        <li class="post-list__entry">
+          <span class="post-list__date">
+            {% if post.link %}
+              ###### LINK
+            {% else %}
+              {{ post.date | date_to_string }}
+            {% endif %}
+            <span class="post-list__raquo">&raquo;</span>
+          </span>
+            <a class="post-list__link" href="{{ post.url }}">{{ post.title }}</a>{% if post.draft == true %} <b>U</b> {% endif %}
+        </li>
+      {% endif %}
     {% endfor %}
   </ul>
 </div>
