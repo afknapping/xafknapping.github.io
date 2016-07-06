@@ -28,5 +28,4 @@ script:
   # - ./build.sh
   - npm run jekyll
   - npm run postcss
-  - npm run css-to-site
   - npm run travis-deploy

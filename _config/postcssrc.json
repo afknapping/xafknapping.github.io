@@ -3,8 +3,8 @@
 
     "comment": "postcss-reporter mdcss",
 
-    "input": "_filtercake3.scss",
-    "output": "./filtercake3.css",
+    "input": "_styles/filtercake3.scss",
+    "output": "_site/filtercake3.css",
     "local-plugins": true,
     "map": false,
 
