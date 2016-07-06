@@ -23,10 +23,10 @@ before_install:
   - >
     PATH=`echo $PATH | sed "s/\.\/node_modules\/\.bin//g"`;
     export PATH=$PATH:./node_modules/.bin;
-  - rvm install 2.3.1
+  - rvm install ruby-2.3.1
 script:
   # - ./build.sh
   - npm run jekyll
   - npm run postcss
   - npm run css-to-site
-  - ./deploy-travis.sh
+  - npm run travis-deploy
