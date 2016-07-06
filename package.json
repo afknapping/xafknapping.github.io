@@ -10,7 +10,7 @@
     "postcss": "./node_modules/.bin/postcss --config ./_config/postcssrc.json",
     "postcss_watch": "./node_modules/.bin/nodemon --ignore _site/ --watch ./_styles/ -e 'scss' -x 'npm run postcss'",
     "jekyll": "bundle exec jekyll build --config ./_config/jekyllrc.yml",
-    "jekyll_watch": "./node_modules/.bin/nodemon --ignore _site/ --watch ./ -e 'html,md' -x 'npm run jekyll && npm run postcss && ./node_modules/.bin/browser-sync reload'",
+    "jekyll_watch": "./node_modules/.bin/nodemon --ignore _site/ --watch ./ -e 'html,md' -x 'npm run jekyll'",
     "start": "rm -rf _site && mkdir _site && npm run jekyll & npm run postcss && npm run browsersync & npm run postcss_watch & npm run jekyll_watch",
     "travis-deploy": "./.travis-deploy.sh"
   },

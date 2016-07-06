@@ -23,3 +23,6 @@ exclude:
   - node_modules
   - package.json
   - npm-debug.log
+
+keep_files:
+  - filtercake3.css
