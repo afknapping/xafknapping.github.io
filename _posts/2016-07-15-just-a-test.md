@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test
+title: this is a test test
 ---
 
 
