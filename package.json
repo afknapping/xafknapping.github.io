@@ -1,40 +1,16 @@
 {
-  "name": "filtercake.com",
+  "name": "2017-filtercake",
   "version": "1.0.0",
-  "description": "- [filtercake/filtercake.github.io - Travis CI](https://travis-ci.org/filtercake/filtercake.github.io) - [filtercake.com](http://www.filtercake.com/)",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "postinstall": "ruby -v && gem install bundler && bundle install",
-    "browsersync": "./node_modules/.bin/browser-sync start --config ./_config/browser-sync-rc.js",
-    "postcss": "./node_modules/.bin/postcss --config ./_config/postcssrc.json",
-    "postcss_watch": "./node_modules/.bin/nodemon --ignore _site/ --watch ./_styles/ -e 'scss' -x 'npm run postcss'",
-    "jekyll": "bundle exec jekyll build --config ./_config/jekyllrc.yml",
-    "jekyll_watch": "./node_modules/.bin/nodemon --ignore _site/ --watch ./ -e 'html,md' -x 'npm run jekyll'",
-    "start": "rm -rf _site && mkdir _site && npm run jekyll & npm run postcss && npm run browsersync & npm run postcss_watch & npm run jekyll_watch",
-    "travis-deploy": "./.travis-deploy.sh"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/filtercake/filtercake.github.io.git"
+    "start": "browser-sync start --server --files ./*"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/filtercake/filtercake.github.io/issues"
-  },
-  "homepage": "https://github.com/filtercake/filtercake.github.io#readme",
-  "dependencies": {
-    "autoprefixer": "^6.3.7",
-    "browser-sync": "^2.13.0",
-    "mdcss": "^1.5.2",
-    "nodemon": "^1.9.2",
-    "postcss": "^5.0.21",
-    "postcss-cli": "^2.5.2",
-    "postcss-import": "^8.1.2",
-    "postcss-reporter": "^1.3.3",
-    "postcss-scss": "^0.1.8",
-    "precss": "^1.4.0"
+  "devDependencies": {
+    "browser-sync": "^2.18.8"
   }
 }
