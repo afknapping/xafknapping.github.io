@@ -297,6 +297,53 @@ h1 {
 
 
 
+:root {
+  --brick-height: 5vh;
+}
+.tetrishook-brick {
+  width: var(--brick-height);
+  height: var(--brick-height);
+  background-color: black;
+  outline: 1px solid white;
+  position: absolute;
+}
+
+.tetrishook-brick:nth-child(1) {
+  top: 0;
+  left: 0;
+}
+.tetrishook-brick:nth-child(2) {
+  top: 0;
+  left: calc( var(--brick-height) * 1);
+}
+.tetrishook-brick:nth-child(3) {
+  top: calc( var(--brick-height) * -1);
+  left: calc( var(--brick-height) * 1);
+}
+.tetrishook-brick:nth-child(4) {
+  top: calc( var(--brick-height) * -1);
+  left: calc( var(--brick-height) * 2);
+}
+
+
+@keyframes tetris-move {
+  0% {
+  }
+  100% {
+  }
+}
+
+.tetrishook {
+  position: sticky;
+  border: 1px dashed black;
+  display: inline-block;
+  transform: rotate(90deg);
+  left: 62vw;
+  top: 80vh;
+  z-index: 100;
+  }
+
+
 </style>
 
 </head>
@@ -313,8 +360,14 @@ h1 {
 <!--
 <h1 data-text="Hi, I'm Fabian&nbsp;:)">Hi, I'm Fabian :)</h1>
 -->
-
+<div class="tetrishook">
+  <div class="tetrishook-brick"></div>
+  <div class="tetrishook-brick"></div>
+  <div class="tetrishook-brick"></div>
+  <div class="tetrishook-brick"></div>
+</div>
 <article class="markdown-body entry-content" itemprop="text">
+
 <h1 data-text="Hi, I'm Fabian&nbsp;:)">Hi, I'm Fabian&nbsp;:)</h1>
 <p>Based near Hamburg, Germany, I currently work at <a href="http://costadigital.io/">Costa Digital / AIDA Cruises</a> as a Product Designer, focussing on interaction design, design systems and community.</p>
 <p>Here are some things I do, made, kicked off or was otherwise involved with:</p>
