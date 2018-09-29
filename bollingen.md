@@ -40,9 +40,9 @@
 - Aufnehmer
 - besen
 - Handfeger
-- Lappen
-- Reniger
-- Glasreiniger
+- ~~Lappen~~
+- ~~Reiniger~~
+- ~~Glasreiniger~~
 
 # Bad
 
