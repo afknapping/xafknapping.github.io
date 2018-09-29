@@ -58,6 +58,7 @@
 - Klobürste
 - kleiner Mülleimer
 - (Regal)
+- Fussabtreter (zur Terrasse)
 
 # Schleuse
 
@@ -74,3 +75,7 @@
 - (TV)
 - (kleiner Officeschreibtisch)
 - Strom zu TV und Office (lange Verlängerung / aufputz)
+
+# Mein Zimmer
+
+- Fussmatte nach draußen
