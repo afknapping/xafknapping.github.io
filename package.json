@@ -1,16 +1,24 @@
 {
-  "name": "2017-filtercake",
+  "name": "afknapping.github.io",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "browser-sync start --server --files ./*"
+    "bollingen": "markdown-it -o bollingen.html bollingen.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afknapping/afknapping.github.io.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "browser-sync": "^2.18.8"
+  "bugs": {
+    "url": "https://github.com/afknapping/afknapping.github.io/issues"
+  },
+  "homepage": "https://github.com/afknapping/afknapping.github.io#readme",
+  "dependencies": {
+    "markdown-it": "^8.4.2"
   }
 }
