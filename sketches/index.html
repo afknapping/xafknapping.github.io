@@ -1,0 +1,43 @@
+<p>helloo</p>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.0.0/p5.js"></script>
+<script>
+
+var w = window.innerWidth;
+var h = window.innerHeight;
+
+
+function setup() {
+//   createCanvas(710, 400, WEBGL);
+//   createCanvas(windowWidth/2, windowHeight/2, WEBGL);
+  canvas=createCanvas(w, h, WEBGL);
+
+
+}
+
+function draw() {
+  background(190);
+
+  noFill();
+  stroke(255);
+  push();
+  translate(w/3, height * 0.35, h/3*-1);
+  rotateY(millis() / 10000)
+  rotateX(millis() / 16000)
+  sphere(300);
+  pop();
+  console.log("drawed");
+
+}
+
+// function windowResized() {
+//   resizeCanvas(windowWidth/2, windowHeight/2);
+// }
+
+window.onresize = function() {
+  // assigns new values for width and height variables
+  w = window.innerWidth;
+  h = window.innerHeight;  
+  canvas.size(w,h);
+}
+</script>
+<body></body>
