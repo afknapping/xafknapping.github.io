@@ -21,7 +21,7 @@
 
 </header>
 
-[Journal](https://afknapping.blot.im/) · [Twitter](https://twitter.com/afknapping) · [Instagram](https://www.instagram.com/afknapping/) · [GitHub](https://github.com/afknapping)
+[Blot](https://afknapping.blot.im/) · [Twitter](https://twitter.com/afknapping) · [Instagram](https://www.instagram.com/afknapping/) · [GitHub](https://github.com/afknapping)
 
 
 
