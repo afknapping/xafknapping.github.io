@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "eleventy --serve --input=_src",
     "push": "eleventy --input=_src && cp -r _site/* . && git add . && git commit -m WRP™ && git push"
   },
   "repository": {
