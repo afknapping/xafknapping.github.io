@@ -1,0 +1,20 @@
+{
+  "name": "afknapping.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "push": "eleventy --input=_src && cp -r _site/* . && git add . && git commit -m WRP™ && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afknapping/afknapping.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afknapping/afknapping.github.io/issues"
+  },
+  "homepage": "https://github.com/afknapping/afknapping.github.io#readme"
+}
