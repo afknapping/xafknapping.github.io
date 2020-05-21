@@ -4,14 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>afk napping</title>
-    <link rel="stylesheet" href="https://fonts.xz.style/serve/inter.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css">
+    <!-- <link rel="stylesheet" href="https://fonts.xz.style/serve/inter.css"> -->
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,300;0,900;1,300;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css">
 </head>
 <body>
 
 <header>
 
-#  Hi, I'm Fabian 🧨🔥💥 a̸͑̿̀̍̆̒̈̏͑̓̎̽͂̉̓̂̃̇̀̿̽̃̋̍́̅̏̅́̅̈͐̾̑̉̓̈͘͝
+#  Hi, I'm Fabian &nbsp; 🧨🔥💥 a̸͑̿̀̍̆̒̈̏͑̓̎̽͂̉̓̂̃̇̀̿̽̃̋̍́̅̏̅́̅̈͐̾̑̉̓̈͘͝
 
 <nav>
 
@@ -81,6 +82,10 @@ window.onresize = function() {
     left: 0;
     width: 100%;
     height: 100%;
+}
+
+body {
+  font-family: 'Libre Franklin', sans-serif;
 }
 
 </style>
