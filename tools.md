@@ -8,7 +8,7 @@ Sakura Quickie Glue: mostest mobile glue
 
 Lefranc Bourgeois inks: small comes with dropper, large is affordable, works in fountain pen
 
-Molotow custom twin pump 224/221. Needs a the brush tip of an 221 to create this most versatile marker. Large ink tank.
+Molotow custom twin pump 224/221. Needs a the brush tip of an 221 to create this most versatile marker. Large ink tank. Order some replacement tips tips with it.
 
 Molotow dripstick small: in relation to sketchbook: ultrafat!
 
