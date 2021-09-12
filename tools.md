@@ -34,3 +34,10 @@ Uni-ball signo white: works really well for the rare cases I want to go white-ov
 
 Olfa SAC-10: One of my most favourite tools ever. The 30 deg blades really make a difference (available as 10 pack as SAB-10).
 
+[Rotating stapler](https://www.amazon.de/-/en/106501-Wedo-Swivel-Stapler/dp/B000TJYQIY/): great to make small booklets – especially when you have a duplex printer and using the Acrobat Reader booklet printing function.
+
+~~Steadler Noris~~ As much as I love this classic: [varnish-free pencils](https://www.amazon.de/-/en/Students-Teacher-Supplies-Drawing-Writing/dp/B07PHF68GB/) are much better for you and the environment and Pentel makes great [Eraser Gaps](https://www.amazon.de/-/en/gp/product/B0091G8HZY/)
+
+[Mobile sharpener](https://www.amazon.de/-/en/Faber-Castell-186999-Perfect-Pencil-Black/dp/B008OEI5K6/): Ridiculous idea to have this thing at the end of a pencil while writing. But it's the most portable sharpener with reservoir because sometimes there is no way to handle wood chips and since it has a clip it doesn't get lost in the bag.
+
+A different kind of watercolor case: combine a [generic metal watercolor case](https://www.amazon.de/-/en/dp/B004RC0E3K/) with [epty watercolour pans](https://www.amazon.de/-/en/watercolour-plastic-palette-acrylic-painting/dp/B094H2HLBK/) and some [sticky magnets](https://www.amazon.de/-/en/Gauder-Magnetic-Plate/dp/B07L2G8355/) and voila
